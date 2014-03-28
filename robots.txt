@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /exercise_3/
+Sitemap: http://www.fitness-istore.com/sitemap.xml 
